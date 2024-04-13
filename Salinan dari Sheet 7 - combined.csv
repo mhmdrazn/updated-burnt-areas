@@ -1,9 +1,9 @@
 Date,Minimum Temperature,Maximum Temperature,Rainfall,Evaporation,Sunshine,Direction Max Wind Gust,Speed Max Wind Gust,Time Max Wind Gust,Suburb
-03/01/2024,8.9,32,0,,11.3,E,59,21:48,Forrestdale 
-04/01/2024,16.4,31.6,0,,13.1,ESE,56,1:04,Forrestdale 
-04/01/2024,17.1,31.9,0,,,E,56,4:06,East Rockingham 
-05/01/2024,17,28.7,0,,,SSW,52,16:34,East Rockingham 
-07/01/2024,19.2,30.9,0,,,SSW,43,17:25,East Rockingham 
+03/01/2024,8.9,32,0,,11.3,E,59,21:48,Forrestdale
+04/01/2024,16.4,31.6,0,,13.1,ESE,56,1:04,Forrestdale
+04/01/2024,17.1,31.9,0,,,E,56,4:06,East Rockingham
+05/01/2024,17,28.7,0,,,SSW,52,16:34,East Rockingham
+07/01/2024,19.2,30.9,0,,,SSW,43,17:25,East Rockingham
 04/01/2024,17.1,31.9,0,,,E,56,4:06,Rockingham
 05/01/2024,17,28.7,0,,,SSW,52,16:34,Rockingham
 07/01/2024,19.2,30.9,0,,,SSW,43,17:25,Rockingham
@@ -17,7 +17,7 @@ Date,Minimum Temperature,Maximum Temperature,Rainfall,Evaporation,Sunshine,Direc
 09/01/2024,16.4,31.9,0,,,SSW,48,15:25,Yanchep
 21/02/2024,17.1,31.3,0,,,SW,46,17:04,Yanchep
 23/02/2024,18.8,39.9,0,,,ENE,52,9:30,Yanchep
-07/01/2024,15,38.3,0,,,SSW,46,16:11,Carabooda 
+07/01/2024,15,38.3,0,,,SSW,46,16:11,Carabooda
 12/01/2024,19.3,37.1,0,,13,ESE,52,23:23,Oakford
 13/01/2024,23.6,40.4,1.4,,11.3,ENE,44,0:43,Oakford
 15/01/2024,23.1,34.5,0,,12.1,N,31,10:34,Oakford
