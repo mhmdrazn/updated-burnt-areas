@@ -1,4 +1,3 @@
-created_at,suburb,time,status,location,area,Minimum temperature (°C),Maximum temperature (°C),Rainfall (mm),Evaporation (mm),Sunshine (hours),Direction of maximum wind gust,Speed of maximum wind gust (km/h),Time of maximum wind gust,9am Temperature (°C),9am relative humidity (%),9am cloud amount (oktas),9am wind direction,9am wind speed (km/h),9am MSL pressure (hPa),3pm Temperature (°C),3pm relative humidity (%),3pm cloud amount (oktas),3pm wind direction,3pm wind speed (km/h),3pm MSL pressure (hPa)
 2024-01-05 12:30:00+00:00,Kensington,NULL,SAFE,NULL,NULL,16.2,30.9,0.0,11.0,13.2,E,35.0,1:01,23.2,52.0,1.0,E,11,1019.0,28.5,40.0,0.0,SW,19,1015.6
 2024-01-05 12:30:00+00:00,Churchlands,NULL,SAFE,NULL,NULL,16.2,30.9,0.0,11.0,13.2,E,35.0,1:01,23.2,52.0,1.0,E,11,1019.0,28.5,40.0,0.0,SW,19,1015.6
 2024-01-05 12:30:00+00:00,Nollamara,NULL,SAFE,NULL,NULL,16.2,30.9,0.0,11.0,13.2,E,35.0,1:01,23.2,52.0,1.0,E,11,1019.0,28.5,40.0,0.0,SW,19,1015.6
