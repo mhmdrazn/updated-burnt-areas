@@ -26,9 +26,9 @@ Date,Minimum Temperature,Maximum Temperature,Rainfall,Evaporation,Sunshine,Direc
 09/12/2023,3.2,28.8,0,,13,ESE,52,13:07,Mandogalup
 08/12/2023,3.3,26,0,,13,SW,54,14:15,Mandogalup
 04/12/2023,16.5,29.7,0,,11.8,WSW,48,14:52,Mariginiup
-01/12/2023,15.3,37.0,0,12.6,ESE,54,05:57,Mariginiup
-02/12/2023,15.0,30.0,0,10.9,SW,41,13:21,Mariginiup
-03/12/2023,15.4,28.8,0,9.8,WSW,37,13:13,Mariginiup
+01/12/2023,15.3,37.0,0,,12.6,ESE,54,05:57,Mariginiup
+02/12/2023,15.0,30.0,0,,10.9,SW,41,13:21,Mariginiup
+03/12/2023,15.4,28.8,0,,9.8,WSW,37,13:13,Mariginiup
 06/12/2023,15.1,1.2,0,7.2,13.1,SW,48,16:06,Postans
 07/12/2023,16.1,27.1,0,10.4,7.7,SW,52,14:00,Postans
 08/12/2023,13.1,26.1,0,7.4,13,SW,56,14:54,Postans
